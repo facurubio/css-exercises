@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.pink-background {
+    background-color: rgb(241, 180, 191);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+
+#id2 {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.adjuts-font-size {
+    font-size: 24px;
+}
+
+#id4 {
+    background-color: rgb(4, 199, 4);
+    font-weight: bold;
+}
